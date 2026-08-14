@@ -1,16 +1,47 @@
-## Hi there 👋
+<table style="border: none; border-collapse: collapse;">
+<tr>
+<td style="border: none; width: 70%;">
 
-<!--
-**David-Gomez49/David-Gomez49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy David Gómez
 
-Here are some ideas to get you started:
+### Software Engineer & Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Construyo aplicaciones web full-stack con **React, Next.js, Spring Boot y Laravel**, Estudiante de Ingeniería de Sistemas y Auxiliar de Programación en la **Universidad de Antioquia**.
+
+📍 Medellín, Colombia
+
+</td>
+<td style="border: none; text-align: center; width: 30%;">
+
+<img src="Chatcomp.png" width="180" height="180"  alt="David Gómez" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧑‍💻 Sobre mí
+
+- 💻 Desarrollo aplicaciones web full-stack: **Next.js, React, Spring Boot y Laravel**.
+- 🤖 Automatizo procesos con **Python** (web scraping, RPA).
+- 🎓 Estudiante de **Ingeniería de Sistemas** y **Auxiliar de Programación** en la Universidad de Antioquia.
+- 🧠 Me apasionan el **Data Science**, el **Machine Learning** y la calidad de software (QA).
+
+## 🛠️ Stack tecnológico
+
+| Categoría | Tecnologías |
+|---|---|
+| **Lenguajes** | Java, PHP, Python, JavaScript, SQL |
+| **Frameworks** | Laravel, Spring Boot, Next.js, React, Tailwind CSS, Hibernate |
+| **Datos & ML** | Pandas, NumPy, scikit-learn, Data Science, Machine Learning |
+| **Herramientas & DevOps** | Git, Docker, MySQL, PostgreSQL, Supabase, Selenium |
+| **QA** | Pruebas unitarias, Pruebas de integración, JUnit, Postman, Pruebas manuales |
+
+
+## 📫 Contacto
+
+- 📧 Email: [David.gomez.agudelo9@gmail.com](mailto:David.gomez.agudelo9@gmail.com), [David.gomez.ingeniero@gmail.com](mailto:David.gomez.ingeniero@gmail.com)
+- 💬 WhatsApp: [+57 321 645 5813](https://wa.me/573216455813)
+- 🔗 LinkedIn: [linkedin.com/in/david-gomez](https://linkedin.com)
+- 🐙 GitHub: [@David-Gomez49](https://github.com/David-Gomez49)
