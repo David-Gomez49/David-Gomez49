@@ -1,6 +1,4 @@
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td style="border: none; width: 70%;">
+<div align="center">
 
 # 👋 Hola, soy David Gómez
 
@@ -10,14 +8,7 @@ Construyo aplicaciones web full-stack con **React, Next.js, Spring Boot y Larave
 
 📍 Medellín, Colombia
 
-</td>
-<td style="border: none; text-align: center; width: 30%;">
-
-<img src="Chatcomp.png" width="180" height="180"  alt="David Gómez" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
