@@ -66,8 +66,7 @@
 
 <div align="center">
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Gomez49&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=0D1117&title_color=10B981&text_color=FFFFFF&icon_color=34D399&ring_color=10B981)](https://github.com/David-Gomez49)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Gomez49&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&title_color=10B981&text_color=FFFFFF&langs_count=8)](https://github.com/David-Gomez49)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=David-Gomez49&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=34D399&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=10B981&sideLabels=10B981&dates=8B949E)](https://git.io/streak-stats)
 
@@ -75,7 +74,6 @@
 
 [![Snake animation](https://raw.githubusercontent.com/David-Gomez49/David-Gomez49/output/github-contribution-grid-snake-dark.svg)](https://github.com/David-Gomez49/David-Gomez49)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=David-Gomez49&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
